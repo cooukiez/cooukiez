@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- Working on GPU Software Ray Marching
+- trying out ReSTIR and Voxel Cone tracing
+- Interested in Octrees
+- Looking for help with Vulkan and graphics programming
 <!--
 **cooukiez/cooukiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
