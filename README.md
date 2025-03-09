@@ -1,4 +1,5 @@
 ### Hi there 👋
+- currently developing finanzmanager
 - working on GPU Software Ray Marching
 - trying out ReSTIR and Voxel Cone tracing
 - interested in Octrees
